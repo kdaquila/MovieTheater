@@ -1,0 +1,20 @@
+{
+  "name": "MovieTheater",
+  "version": "1.0.0",
+  "description": "A website for a generic movie theater. Inspired by AMC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdaquila/MovieTheater.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdaquila/MovieTheater/issues"
+  },
+  "homepage": "https://github.com/kdaquila/MovieTheater#readme"
+}
